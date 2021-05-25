@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Cueilletetetette"
+echo "Cueilletetetette à la mano"
